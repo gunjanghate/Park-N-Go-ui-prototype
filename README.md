@@ -28,13 +28,13 @@ The main goal is to **streamline parking management** by allowing users to:
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js (React)
+- **Framework**: Vite (React)
 - **Styling**: Tailwind CSS
 - **Icons**: React Icons / Lucide
 - **Static Data**: Mock JSON-based parking data
+- **OSM and Here Maps Api**: Free tiers
 - **Responsive Design**: Mobile-first layout
 
 ---
 
-## 📁 Project Structure
 
