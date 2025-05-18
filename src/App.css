@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap");
+.lan-main {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    163deg,
+    rgba(203, 140, 197, 1) 1%,
+    rgba(97, 89, 183, 1) 57%
+  );
+}
